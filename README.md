@@ -151,7 +151,7 @@ Policy Based Data Structure (PBDS)
 Prefix Sum, 2D Prefix Sum & Difference Array
 Backtracking
 
-### Programming Hero Course Module
+### Programming Hero Course Module [https://web.programming-hero.com/course-details]
 
 Module -1: Welcome Video
 
